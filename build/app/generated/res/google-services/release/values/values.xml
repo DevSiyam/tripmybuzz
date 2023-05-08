@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">455034832333-49elvpatgg4k5fnsnosl4tfvk32kp4rm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">455034832333</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpbRrfYMB95oH6XpF0WrqW9mO0uIlKdfw</string>
+    <string name="google_app_id" translatable="false">1:455034832333:android:385a8e29db9e93e0b63084</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpbRrfYMB95oH6XpF0WrqW9mO0uIlKdfw</string>
+    <string name="google_storage_bucket" translatable="false">tripmybuzz.appspot.com</string>
+    <string name="project_id" translatable="false">tripmybuzz</string>
+</resources>
